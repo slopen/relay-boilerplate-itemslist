@@ -17,11 +17,12 @@ keep rarely updated dependencies in vendor.js file
 [react-relay-network-layer](https://github.com/nodkz/react-relay-network-layer) - batch Relay queries
 
 
-## Setup
+## Init
 
 ```
+git clone https://github.com/slopen/relay-boilerplate-itemslist
+cd relay-boilerplate-itemslist
 npm i
-npm run build:vendor
 ```
 
 ## Start GraphQL server
